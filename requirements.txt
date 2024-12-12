@@ -3,4 +3,3 @@ PyPDF2==3.0.1
 fpdf==1.7.2
 transformers==4.34.0
 torch==2.1.0
-unicodedata2==14.0.0
